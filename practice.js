@@ -42,3 +42,11 @@
 //     console.log(`${product.name} : ${product.price}$`)
 // })
 // console.log(getNamePrice)
+
+const number = [1, 2, 4];
+console.log(typeof number)
+
+function add(){
+     
+}
+console.log(typeof add)
